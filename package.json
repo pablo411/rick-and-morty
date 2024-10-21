@@ -1,7 +1,7 @@
 {
-  "homepage": "https://411.github.io/rick-and-morty",
   "name": "react-rick-and-morty",
   "private": true,
+  "homepage": "https://411.github.io/rick-and-morty",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
